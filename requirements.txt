@@ -1,0 +1,10 @@
+enchant
+nltk
+pyenchant
+pypdf
+transformers
+wordninja
+sumy
+streamlit
+Pillow
+clipboard
