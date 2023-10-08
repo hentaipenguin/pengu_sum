@@ -1,4 +1,3 @@
-enchant
 nltk
 pyenchant
 pypdf
