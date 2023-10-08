@@ -8,3 +8,4 @@ sumy
 streamlit
 Pillow
 tensorflow
+pytorch
