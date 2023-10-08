@@ -7,3 +7,6 @@
 ### To run the code
 
 `streamlit run src/main.py`
+
+
+## Remember to put pdf file in the folder
